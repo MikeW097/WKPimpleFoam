@@ -6,7 +6,7 @@ This is a sample case for the application of WKPimpleFoam
 
 The geometry is set with h $\times$ l equal to 1 $\times$ 30.
 
-![geometry](geometry)
+![geometry.png](geometry)
 
 ## Boundary Condition
 
@@ -32,4 +32,4 @@ Set the model value as,
 
 The inlet-outlet pressure variation and their difference are show as following,
 
-![result](result)
+![result.png](result)
