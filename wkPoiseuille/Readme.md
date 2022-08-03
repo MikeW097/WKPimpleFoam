@@ -21,12 +21,18 @@ In which, $A = 5 \* 10^{-4} [m^3 / s]$
 ## WK-3 Parameters
 
 Set the model value as,
-  
-  $$
-    R = 1.45 \cdot 10^8 [kg/m^4 s].  \\
-    \newline C = 1.45 \cdot 10^{-8} [m^4 s^2 / kg]. \\   
-    \\ Z = 1.1 \cdot 10^7 [kg/m^4 s]. 
-  $$
+
+$$
+R = 1.45 \cdot 10^8 [kg/m^4 s]
+$$
+
+$$
+C = 1.45 \cdot 10^{-8} [m^4 s^2 / kg]
+$$
+
+$$
+Z = 1.1 \cdot 10^7 [kg/m^4 s]
+$$
   
 ## Result
 
